@@ -1,7 +1,7 @@
 # PORTFOLIO
 ## About me
 
-|​- My name is **Agata Gnoińska**, I am a graduate of biology, but I want to change my career path. I am inquisitive and analytical, and I feel that my penchant for detail could help me in my work as a tester. I can learn and act independently, but at the same time I have high social and mediation skills. -|​
+|-My name is **Agata Gnoińska**, I am a graduate of biology, but I want to change my career path. I am inquisitive and analytical, and I feel that my penchant for detail could help me in my work as a tester. I can learn and act independently, but at the same time I have high social and mediation skills.-|
 
 
 ## Courses
