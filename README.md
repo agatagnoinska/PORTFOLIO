@@ -1,7 +1,7 @@
 # PORTFOLIO
 ## About me
 
-|-My name is **Agata Gnoińska**, I am a graduate of biology, but I want to change my career path. I am inquisitive and analytical, and I feel that my penchant for detail could help me in my work as a tester. I can learn and act independently, but at the same time I have high social and mediation skills.-|
+My name is **Agata Gnoińska**, I am a graduate of biology, but I want to change my career path. I am inquisitive and analytical, and I feel that my penchant for detail could help me in my work as a tester. I can learn and act independently, but at the same time I have high social and mediation skills
 
 
 ## Courses
@@ -24,12 +24,19 @@ design and implementation of websites and mobile games (96 hours – 12 training
 ## My projects
 
  - Test cases
+ 
 [Link to Test cases 1](https://docs.google.com/spreadsheets/d/1-wAf31E76_X2PXHe6B3eY2_9sM2ecmgVdi_MraQ5gE0/edit?usp=share_link) 
+
 [Link to Test cases 2](https://docs.google.com/document/d/1jdNBoIOo_dSgxcfpOr7DRsupr08_Wt4CAozyikA97YI/edit?usp=share_link)  
  
+ 
  - Bugs
+ 
 [Link to bugs reports - Scouts Panel ](https://docs.google.com/spreadsheets/d/1IO59aS6apXWVpZZQe_7vELbjcHcz2QyeJE5OVG-UOKk/edit?usp=share_link)
- [Link to bugs reports - Olx (mobile aplication)](https://docs.google.com/spreadsheets/d/1P-H6yRZdTrsD066bxMJL8cB-ZfiorCecuvcOQUmmLeE/edit?usp=share_link)
+
+[Link to bugs reports - Olx (mobile aplication)](https://docs.google.com/spreadsheets/d/1P-H6yRZdTrsD066bxMJL8cB-ZfiorCecuvcOQUmmLeE/edit?usp=share_link)
+
  
  - Test report
+ 
  [Link to test report - Scouts Panel ](https://docs.google.com/spreadsheets/d/1KTuDIrWS6Ofl8UZmbfxIeZBIdSVywJvJE-yDex69ee8/edit?usp=share_link)
