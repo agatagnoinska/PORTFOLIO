@@ -40,4 +40,6 @@ design and implementation of websites and mobile games (96 hours);
  
  [Link to test report - Scouts Panel ](https://docs.google.com/spreadsheets/d/1KTuDIrWS6Ofl8UZmbfxIeZBIdSVywJvJE-yDex69ee8/edit?usp=share_link)
 
--
+- SQL
+
+[Link to SQL tasks](https://github.com/agatagnoinska/challenge_portfolio_Agata_Gnoinska/blob/main/README.md#subtask-3-4)
