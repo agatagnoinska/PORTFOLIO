@@ -12,7 +12,7 @@ design and implementation of websites and mobile games (96 hours);
  - Dare IT Challenge: Become a Manual Tester
 
 
-## Tools
+## Tools/Tech skills
 
  - GitHub
  - Slack
@@ -20,6 +20,16 @@ design and implementation of websites and mobile games (96 hours);
  - HTML
  - Devtools
  - Xampp
+ - Python basics
+
+
+## Soft skills
+
+- good communication skills, 
+- good organization of work
+- the desire to develop
+- positive attitude
+- critical and logical thinking
 
 
 ## My projects
