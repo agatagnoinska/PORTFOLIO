@@ -25,11 +25,11 @@ design and implementation of websites and mobile games (96 hours);
 
 ## Soft skills
 
-- good communication skills, 
-- good organization of work
-- the desire to develop
-- positive attitude
-- critical and logical thinking
+- Good communication skills, 
+- Desire to develop
+- Positive attitude
+- Good organization of work
+- Critical and logical thinking
 
 
 ## My projects
