@@ -24,7 +24,8 @@ design and implementation of websites and mobile games (96 hours – 12 training
 ## My projects
 
 |Test cases  |  
-|--|--|
+|--|
+
 | [Link to Test cases 1](https://docs.google.com/spreadsheets/d/1-wAf31E76_X2PXHe6B3eY2_9sM2ecmgVdi_MraQ5gE0/edit?usp=share_link)  
 [Link to Test cases 2](https://docs.google.com/document/d/1jdNBoIOo_dSgxcfpOr7DRsupr08_Wt4CAozyikA97YI/edit?usp=share_link)   |
 
