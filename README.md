@@ -29,16 +29,16 @@ design and implementation of websites and mobile games (96 hours – 12 training
 
 [Link to Test cases 2](https://docs.google.com/document/d/1jdNBoIOo_dSgxcfpOr7DRsupr08_Wt4CAozyikA97YI/edit?usp=share_link)  
  
---- 
+
 >Bugs
 
 [Link to bugs reports - Scouts Panel ](https://docs.google.com/spreadsheets/d/1IO59aS6apXWVpZZQe_7vELbjcHcz2QyeJE5OVG-UOKk/edit?usp=share_link)
 
 [Link to bugs reports - Olx (mobile aplication)](https://docs.google.com/spreadsheets/d/1P-H6yRZdTrsD066bxMJL8cB-ZfiorCecuvcOQUmmLeE/edit?usp=share_link)
 
----
+
 >Test report
  
  [Link to test report - Scouts Panel ](https://docs.google.com/spreadsheets/d/1KTuDIrWS6Ofl8UZmbfxIeZBIdSVywJvJE-yDex69ee8/edit?usp=share_link)
  
- ---
+
