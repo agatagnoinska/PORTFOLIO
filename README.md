@@ -7,8 +7,8 @@ My name is **Agata Gnoińska**, I am a graduate of biology, but I want to change
 ## Courses
 
  - Training to conduct classes under the "Skok w GOK" program:
-design and implementation of websites and mobile games (96 hours – 12 training days of 8 hours each);
- - artificial intelligence and big data - introducing children and young people to this topic (96 hours - 12 training days, 8 hours each)
+design and implementation of websites and mobile games (96 hours);
+ - artificial intelligence and big data - introducing children and young people to this topic (96 hours)
  - Dare IT Challenge: Become a Manual Tester
 
 
