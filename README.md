@@ -1,7 +1,7 @@
 # PORTFOLIO
 
-[Link do pierwszego repozytorium](https://github.com/agatagnoinska/challenge_portfolio_Agata_Gnoinska/blob/main/README.md) 
-
+[Link do pierwszego repozytorium - testy automatyczne](https://github.com/agatagnoinska/Challenge_portfolio_AGnoinska/blob/8000291a570bb087da0b106785d7fd647c147d82/README.md) 
+[Link do repozytorium 2 - Robot Framework](https://github.com/agatagnoinska/panelscout_robotframework.git)
 
 ## About me
 
@@ -13,7 +13,8 @@ My name is **Agata Gnoińska**, I am a graduate of biology, but I want to change
  - Training to conduct classes under the "Skok w GOK" program:
 design and implementation of websites and mobile games (96 hours);
  - artificial intelligence and big data - introducing children and young people to this topic (96 hours)
- - Dare IT Challenge: Become a Manual Tester
+ - Dare IT Challenge: Zostań Testerem manualnym
+ - Dare IT Challenge: Wstęp do Testów Automatycznych
 
 
 ## Tools/Tech skills
@@ -25,6 +26,8 @@ design and implementation of websites and mobile games (96 hours);
  - Devtools
  - Xampp
  - Python basics
+ - Robot Frame
+ - PyCharm
 
 
 ## Soft skills
@@ -43,12 +46,16 @@ design and implementation of websites and mobile games (96 hours);
 [Link to Test cases 1](https://docs.google.com/spreadsheets/d/1-wAf31E76_X2PXHe6B3eY2_9sM2ecmgVdi_MraQ5gE0/edit?usp=share_link) 
 
 [Link to Test cases 2](https://docs.google.com/document/d/1jdNBoIOo_dSgxcfpOr7DRsupr08_Wt4CAozyikA97YI/edit?usp=share_link)  
+
+[Link to Test cases 3](https://docs.google.com/spreadsheets/d/14J4yXBMRoxodTpoGl9vdnmrYKGbPwNlvBp94WR_bpdI/edit?usp=share_link) 
  
  - Bugs
 
 [Link to bugs reports - Scouts Panel ](https://docs.google.com/spreadsheets/d/1IO59aS6apXWVpZZQe_7vELbjcHcz2QyeJE5OVG-UOKk/edit?usp=share_link)
  
 [Link to bugs reports - Olx (mobile aplication)](https://docs.google.com/spreadsheets/d/1P-H6yRZdTrsD066bxMJL8cB-ZfiorCecuvcOQUmmLeE/edit?usp=share_link)
+
+[Link to bugs reports - Scouts Panel2)](https://docs.google.com/spreadsheets/d/1aD5WUgXl1y0PQARG7lYIzVFW7d-R8ojjIPMqoNh1III/edit?usp=share_link)
  
  - Test report
  
