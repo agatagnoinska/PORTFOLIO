@@ -57,7 +57,7 @@ design and implementation of websites and mobile games (96 hours);
  
 [Link to bugs reports - Olx (mobile aplication)](https://docs.google.com/spreadsheets/d/1P-H6yRZdTrsD066bxMJL8cB-ZfiorCecuvcOQUmmLeE/edit?usp=share_link)
 
-[Link to bugs reports - Scouts Panel2)](https://docs.google.com/spreadsheets/d/1aD5WUgXl1y0PQARG7lYIzVFW7d-R8ojjIPMqoNh1III/edit?usp=share_link)
+[Link to bugs reports - Scouts Panel2](https://docs.google.com/spreadsheets/d/1aD5WUgXl1y0PQARG7lYIzVFW7d-R8ojjIPMqoNh1III/edit?usp=share_link)
  
  - Test report
  
